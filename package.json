@@ -1,0 +1,16 @@
+{
+  "name": "aisc-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node run src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "NONE",
+  "dependencies": {
+    "@wedevelop/web-sub": "^1.0.0",
+    "@wedevelop/web-sub-kafka-adapter": "^1.0.0"
+  }
+}
